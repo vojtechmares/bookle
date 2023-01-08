@@ -1,5 +1,5 @@
-.PHONY: local-dev
-local-dev:
-	@echo "Starting local development environment..."
+.PHONY: local-db
+local-db:
+	@echo "Starting local DB instance..."
 	@docker compose up -d
-	@echo "Local development environment started."
+	@echo "Local DB instance started."
