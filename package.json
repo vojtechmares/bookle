@@ -101,5 +101,5 @@
   "prisma": {
     "seed": "ts-node --require tsconfig-paths/register prisma/seed.ts"
   },
-  "packageManager": "pnpm@7.23.0"
+  "packageManager": "pnpm@7.27.1"
 }
